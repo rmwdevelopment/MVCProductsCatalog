@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pencils",
+    "Price": 1.00
+  },
+  {
+    "Id": 2,
+    "Name": "Notebook",
+    "Price": 2.00
+  },
+  {
+    "Id": 3,
+    "Name": "Eraser",
+    "Price": 0.99
+  },
+  {
+    "Id": 4,
+    "Name": "Jeff the Land Shark",
+    "Price": 999.99
+  },
+  {
+    "Id": 5,
+    "Name": "Pencil Case",
+    "Price": 3.00
+  },
+  {
+    "Id": 6,
+    "Name": "Folder",
+    "Price": 0.89
+  },
+  {
+    "Id": 7,
+    "Name": "Highlighters",
+    "Price": 5.00
+  },
+  {
+    "Id": 8,
+    "Name": "Markers",
+    "Price": 4.00
+  },
+  {
+    "Id": 9,
+    "Name": "Pens",
+    "Price": 5.00
+  },
+  {
+    "Id": 10,
+    "Name": "Pencil Sharpener",
+    "Price": 0.99
+  }
+]
